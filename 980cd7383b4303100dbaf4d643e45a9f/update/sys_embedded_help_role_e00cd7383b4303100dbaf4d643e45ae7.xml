@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_2088397_incide_0.user" name="x_2088397_incide_0.user">ac0cd7383b4303100dbaf4d643e45ae4</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-08-29 16:17:20</sys_created_on>
+        <sys_id>e00cd7383b4303100dbaf4d643e45ae7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ac0cd7383b4303100dbaf4d643e45ae4</sys_name>
+        <sys_package display_value="Incident Lifecycle Automation" source="x_2088397_incide_0">980cd7383b4303100dbaf4d643e45a9f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Incident Lifecycle Automation">980cd7383b4303100dbaf4d643e45a9f</sys_scope>
+        <sys_update_name>sys_embedded_help_role_e00cd7383b4303100dbaf4d643e45ae7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-08-29 16:17:20</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
