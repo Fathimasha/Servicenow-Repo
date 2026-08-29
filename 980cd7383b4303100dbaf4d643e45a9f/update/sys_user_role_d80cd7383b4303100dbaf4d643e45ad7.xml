@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description>Default admin role</description>
+        <elevated_privilege>false</elevated_privilege>
+        <federated_id>uZmzfh239oCm87iZ7/wxBF8nhPiTyjqJYa5BseK0ZqM=</federated_id>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_2088397_incide_0.admin</name>
+        <scoped_admin>false</scoped_admin>
+        <suffix>admin</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-08-29 16:17:19</sys_created_on>
+        <sys_id>d80cd7383b4303100dbaf4d643e45ad7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_2088397_incide_0.admin</sys_name>
+        <sys_package display_value="Incident Lifecycle Automation" source="x_2088397_incide_0">980cd7383b4303100dbaf4d643e45a9f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Incident Lifecycle Automation">980cd7383b4303100dbaf4d643e45a9f</sys_scope>
+        <sys_update_name>sys_user_role_d80cd7383b4303100dbaf4d643e45ad7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-08-29 16:17:19</sys_updated_on>
+    </sys_user_role>
+</record_update>
